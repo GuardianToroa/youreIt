@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "59d5d91e0ec0928c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2695b4ed27c94085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "571b806b8e1873a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "You're It.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dbbc8d1e35c22fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5329204a6a3ff70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "036b92190da327b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a82e617fcce3bd7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d626c0e3e1480d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2354165b46710b13",
+    "type": "split",
+    "children": [
+      {
+        "id": "45a5183b93ffbd8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edfbce6725366b59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "You're It.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a547266f2a49a106",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "You're It.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7654c081589dfb2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a55425bbc17daea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "You're It.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "571b806b8e1873a6",
+  "lastOpenFiles": [
+    "Prototype.md",
+    "You're It.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
